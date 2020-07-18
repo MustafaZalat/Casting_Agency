@@ -8,6 +8,8 @@ This project has two models/tables: A movie table that holds all the movies and 
 to get to the heroku link: https://casting-agency-cap-udacity.herokuapp.com/ | https://git.heroku.com/casting-agency-cap-udacity.git
 
 
+Database Url: DATABASE_URL: postgres://dxlowpykrkdozi:53fc5a00bb457405214bd2e5716e1f70e6c425b041302a8159c8f94f7fe78557@ec2-3-91-112-166.compute-1.amazonaws.com:5432/dbtp9e0jsiqsp0
+
 
 To run the server, execute:
 
